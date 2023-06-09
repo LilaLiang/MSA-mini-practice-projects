@@ -1,0 +1,15 @@
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\bin\Release\net7.0\4.DotNetDebugging.exe
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\bin\Release\net7.0\4.DotNetDebugging.deps.json
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\bin\Release\net7.0\4.DotNetDebugging.runtimeconfig.json
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\bin\Release\net7.0\4.DotNetDebugging.dll
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\bin\Release\net7.0\4.DotNetDebugging.pdb
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.AssemblyInfo.cs
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.dll
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\refint\4.DotNetDebugging.dll
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.pdb
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\4.DotNetDebugging.genruntimeconfig.cache
+C:\Users\Nicole\Desktop\Microsoft Student Accelorater mini Projects\MSA-mini-practice-projects\4.DotNetDebugging\obj\Release\net7.0\ref\4.DotNetDebugging.dll
