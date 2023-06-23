@@ -1,5 +1,5 @@
 # MSA-mini-practice-projects
-The projects for practice in Microsoft Student Accelerator NZ.
+The projects for practice in Microsoft Student Accelerator.
 
 ### 1.DotNetDependencies
 Initialize .NET projects.</br>
@@ -15,5 +15,3 @@ Apply styles to page elements using CSS.</br>
 Create themes using CSS.</br>
 Add support for switching between themes using JavaScript.</br>
 Inspect the website using browser developer tools.
-
-TBA
